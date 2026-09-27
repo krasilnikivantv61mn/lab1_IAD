@@ -1,0 +1,4 @@
+/.venv
+/meters.parquet
+/registry.csv
+/requirements.txt
